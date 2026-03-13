@@ -12,7 +12,7 @@
 | **Autor** | Petr Přibyl |
 | **Škola** | Academic School |
 | **Typ práce** | Maturitní projekt |
-| **Vedoucí práce** | Pavel Valášek |
+| **Vedoucí práce** | Ing. Pavel Valášek |
 
 ---
 
@@ -49,11 +49,10 @@ Hra pokrývá nejčastější typy phishingových útoků v českém prostředí
 Projekt nevyžaduje žádnou instalaci, server ani závislosti.
 
 ```bash
-git clone https://github.com/tvuj-username/getphished.git
-cd getphished
+https://syckzer.github.io/GetPhished/
 ```
 
-Poté stačí otevřít soubor `main.html` v libovolném moderním prohlížeči.
+Stačí si zkopírovat odkaz a rovnou hrát.
 
 > Alternativně si soubor `main.html` stáhni přímo a otevři ho dvojklikem — žádná instalace není potřeba.
 
